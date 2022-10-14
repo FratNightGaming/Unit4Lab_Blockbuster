@@ -1,0 +1,15 @@
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\bin\Debug\net6.0\Blockbuster.exe
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\bin\Debug\net6.0\Blockbuster.deps.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\bin\Debug\net6.0\Blockbuster.runtimeconfig.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\bin\Debug\net6.0\Blockbuster.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\bin\Debug\net6.0\Blockbuster.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\Blockbuster.csproj.AssemblyReference.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\Blockbuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\Blockbuster.AssemblyInfoInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\Blockbuster.AssemblyInfo.cs
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\Blockbuster.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\refint\Blockbuster.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\Blockbuster.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\Blockbuster.genruntimeconfig.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 4\Blockbuster\obj\Debug\net6.0\ref\Blockbuster.dll
